@@ -68,7 +68,7 @@ class ContactBDay : Service() {
                                 Log.e(
                                     "Main disp with bday ",
                                     contactDisplayName + "'s bday is " + birthday + " Contact's Id " + contactId
-                                );
+                                )
                             }
                         }
                         birthdayCur.close()
